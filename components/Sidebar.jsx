@@ -1,5 +1,4 @@
-import { assets } from "@/assets/assets";
-import { Flag, Text } from "lucide-react";
+import { assets } from "@/assets/assets.js";
 import Image from "next/image";
 import React, { useState } from "react";
 import { useClerk, UserButton } from "@clerk/nextjs";

@@ -1,5 +1,5 @@
 "use client"
-import { assets } from "@/assets/assets";
+import { assets } from "@/assets/assets.js";
 import Message from "@/components/Message";
 import PromptBox from "@/components/PromptBox";
 import Sidebar from "@/components/Sidebar";
